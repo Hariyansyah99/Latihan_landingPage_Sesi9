@@ -1,0 +1,152 @@
+.navbar{
+    background-color: #FF5B00;
+    color: #ffff;
+}
+
+.banner {
+    background: url(img/banner.jpg);
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color: #fff;
+}
+
+.banner button {
+    background: #FF5B00;
+    color: #fff;
+}
+
+.banner .container button:hover {
+    background: gray;
+}
+
+#name {
+    color: #25316D;
+}
+
+.about h2 {
+    margin: 1em;
+    color: #FF5B00;
+}
+
+.about img {
+    height: 300px;
+    width: 300px;
+    border-radius: 100%;
+}
+
+.about .desc {
+    padding: 32PX;
+    border-left: 4px #25316D solid    ;
+}
+
+.portfolio{
+    margin: 3em 0;
+    position: relative;
+   
+    margin-bottom: 30px;
+    
+
+}
+
+.portfolio h2 {
+    margin: 1em;
+    color: #FF5B00;
+}
+.portfolio img {
+   height: 15rem;
+   width: 100%;
+   margin: 1em;
+
+}
+
+.blog h2 {
+    color: #FF5B00;
+    margin: 1em;
+}
+.blog .card img {
+    height: 12em ;
+    width: 100%;
+}
+
+.team {
+    margin: 4em 0;
+    position: relative;
+}
+
+.team h2 {
+    margin: 1em;
+    color: #FF5B00;
+}
+
+.team img {
+    height: 15rem;
+    width: 100%;
+    border-radius: 50%;
+}
+
+.contact-form {
+    margin: 6em 0;
+    position: relative;
+}
+
+form {
+    display: block;
+    margin-top: 0;
+}
+
+.contact-form h1 {
+    color: #FF5B00;
+    padding: 2em 1px;
+}
+
+.contact-form .right {
+    max-width: 600px;
+}
+
+.form-group {
+    margin-bottom: 1rem;
+}
+
+.contact-form .right .btn-secondary {
+    background: #FF5B00 ;
+    color: #fff;
+    border: 0;
+    width: 100%;
+    
+}
+
+.footer {
+    background: #FF5B00;
+
+}
+.footer p {
+    padding-top: 30px;
+    padding-bottom: 30px;   
+}
+
+.card .card-body .read-more {
+    background: #FF5B00;
+    color: #fff;
+    width: 100%;
+}
+
+.card .card-body .read-more:hover {
+    background: grey;
+    color: #fff;
+}
+
+.right .btn-kirim {
+    width: 100%;
+    background-color: #FF5B00;
+    color: #fff;
+}
+
+form .right .btn-kirim:hover {
+    background-color:gray ;
+    color: #fff;
+
+}
+
+
+
